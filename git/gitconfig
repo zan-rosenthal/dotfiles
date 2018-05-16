@@ -110,8 +110,8 @@
   default = upstream
 [core]
   autocrlf = false
-  editor = vim
-  excludesfile = ~/.yadr/git/gitignore
+	editor = sublime --wait
+	excludesfile = /Users/zan/.gitignore_global
 [advice]
   statusHints = false
 [diff]
@@ -125,3 +125,6 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[user]
+	name = zan-rosenthal
+	email = zan.rosenthal@gmail.com
