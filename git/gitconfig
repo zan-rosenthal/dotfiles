@@ -110,8 +110,8 @@
   default = upstream
 [core]
   autocrlf = false
-	editor = sublime --wait
 	excludesfile = /Users/zan/.gitignore_global
+	editor = code --wait
 [advice]
   statusHints = false
 [diff]

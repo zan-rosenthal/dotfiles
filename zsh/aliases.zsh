@@ -69,7 +69,7 @@ alias ve='vim ~/.vimrc'
 alias ze='vim ~/.zshrc'
 
 # Git Aliases
-alias gbl = 'git branch --list'
+alias gbl='git branch --list'
 alias gs='git status'
 alias gstsh='git stash'
 alias gst='git stash'
